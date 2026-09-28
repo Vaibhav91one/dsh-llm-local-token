@@ -37,10 +37,10 @@
   },
   "peerDependencies": {
     "@deepseek-ai/cordis": "^4.0.1",
-    "@deepseek-ai/dsh-llm": "^0.1.0-rc.6",
-    "@deepseek-ai/dsh-llm-pi-ai": "^0.1.0-rc.6",
+    "@deepseek-ai/dsh-llm": "^0.1.0-rc.6 || ^0.1.5-rc.0",
+    "@deepseek-ai/dsh-llm-pi-ai": "^0.1.0-rc.6 || ^0.1.5-rc.0",
     "@deepseek-ai/schemastery": "^3.18.1",
-    "@earendil-works/pi-ai": "^0.82.1"
+    "@earendil-works/pi-ai": ">=0.82.1 <1.0.0"
   },
   "peerDependenciesMeta": {
     "@deepseek-ai/cordis": {
